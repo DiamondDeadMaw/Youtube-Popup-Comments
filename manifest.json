@@ -1,6 +1,6 @@
 {
     "name": "Youtube Popup Comments",
-    "description": "A way to see comments while watching your video",
+    "description": "A way to see comments while watching videos, without scrolling away from it",
     "version": "1.0",
     "manifest_version": 3,
     "background": {
