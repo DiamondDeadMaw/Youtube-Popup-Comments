@@ -1,0 +1,69 @@
+.popUpComments {
+    background-color: rgba(54, 44, 44, 0.76);
+    position: relative;
+    z-index: 9999999999999;
+    height: 70%;
+    width: 25%;
+    margin-left: 75%;
+    margin-top: 6%;
+    border-radius: 2.5%;
+    overflow-y: auto;
+}
+
+
+.popUpCommentsRow {
+    display: block;
+    width: 100%;
+    height: auto;
+    min-height: 10%;
+    overflow:hidden;
+}
+
+.profilePic {
+    border-radius: 50%;
+    margin-top: 5%;
+    margin-left: 15%;
+    display: block;
+}
+
+.likeButton {
+    height: 23%;
+    width: 23%;
+    float: left;
+    margin-top: 5%;
+    margin-left: 15%;
+}
+.likeNumber {
+    float: left;
+    font-size: 14px;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.leftColumn {
+    width: 13%;
+    float: left;
+}
+.likeInfo {
+    display: block;
+    width: 100%;
+}
+
+.rightColumn {
+    width: 87%;
+    float: left;
+}
+
+.authorName {
+    font-size: 15px;
+    margin-top: 1%;
+    display: block;
+}
+.customButtonsForComments {
+    background-color: transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    margin-top: 13%;
+}
